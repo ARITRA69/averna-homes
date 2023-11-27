@@ -25,7 +25,7 @@ const WavyText: FC<Props> = ({
 
   inViewRef.current = inView;
 
-  const text = children.toString();
+  const text = children ? children.toString() : "";
   const letters = Array.from(text);
 
   const container: Variants = {
