@@ -17,7 +17,7 @@ Client:
 - TailwindCSS
 - Framer Motion
 
-#### Features
+## Features
 - Clone but Better
 
 ## Getting Started
