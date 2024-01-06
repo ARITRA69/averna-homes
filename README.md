@@ -4,14 +4,14 @@
 
 [View Demo](https://averna-homes.vercel.app/)
 
-# Table of Contents
+## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Contact](#contact)
 
 ## About the Project
 
-### Tech Stack
+## Tech Stack
 Client:
 - NEXTJS
 - TailwindCSS
