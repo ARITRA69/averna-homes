@@ -1,56 +1,49 @@
-<div align='center'>
+# Averna Homes Clone
 
-<h1>Averna Homes Clone</h1>
-<p>(Averna Home Clone)Creating one-of-a-kind homes underpinned by creativity, craftsmanship and an unrivalled attention to detail.</p>
+(Averna Home Clone) Creating one-of-a-kind homes underpinned by creativity, craftsmanship and an unrivalled attention to detail.
 
-<h4> <a href=https://averna-homes.vercel.app/>View Demo</a> <span> · </span> <a href="https://github.com/aritra69/averna-homes/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/aritra69/averna-homes/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/aritra69/averna-homes/issues"> Request Feature </a> </h4>
+[View Demo](https://averna-homes.vercel.app/)
 
+# Table of Contents
 
-</div>
+- [About the Project](#about-the-project)
+- [Contact](#contact)
 
-# :notebook_with_decorative_cover: Table of Contents
+## About the Project
 
-- [About the Project](#star2-about-the-project)
-- [Contact](#handshake-contact)
+### Tech Stack
+Client:
+- NEXTJS
+- TailwindCSS
+- Framer Motion
 
-
-## :star2: About the Project
-### :space_invader: Tech Stack
-<details> <summary>Client</summary> <ul>
-<li><a href="">NEXTJS</a></li>
-<li><a href="">TailwindCSS</a></li>
-<li><a href="">Framer Motion</a></li>
-</ul> </details>
-
-### :dart: Features
+#### Features
 - Clone but Better
 
+## Getting Started
 
-## :toolbox: Getting Started
-
-### :gear: Installation
-
-Install node modules
+### Installation
 ```bash
 npm i
+or
+yarn add
 ```
 
-
-### :running: Run Locally
+### Run Locally
 
 Clone the project
 
 ```bash
 https://github.com/ARITRA69/averna-homes
 ```
-run on localhost
+
+Run on localhos
+
 ```bash
 npm run dev
 ```
 
+## Contact
 
-## :handshake: Contact
-
-Aritra Sarkar - - aritrasarkar2002@gmail.com
-
+Aritra Sarkar - aritrasarkar2002@gmail.com
 Project Link: [https://github.com/ARITRA69/averna-homes](https://github.com/ARITRA69/averna-homes)
