@@ -4,13 +4,6 @@
 
 [View Demo](https://averna-homes.vercel.app/)
 
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Contact](#contact)
-
-## About the Project
-
 ## Tech Stack
 Client:
 - NEXTJS
