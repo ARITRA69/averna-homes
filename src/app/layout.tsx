@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Poppins } from "next/font/google";
+import { Bebas_Neue, Poppins } from "next/font/google";
 import "./globals.css";
 import Lenis from "@studio-freight/lenis";
 import Footer from "@/components/Footer";
@@ -10,6 +10,11 @@ import Parallax from "@/components/Parallax";
 const poppins = Poppins({
   subsets: ["latin"],
   weight: ["200", "300", "400", "500", "600", "700", "800"],
+});
+
+const bebas = Bebas_Neue({
+  subsets: ["latin"],
+  weight: ["400"],
 });
 
 export const metadata: Metadata = {
@@ -24,7 +29,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${poppins.className} bg-white`}>
+      <body className={`${bebas.className} bg-white`}>
         <SmoothScroll>
           <Navbar />
           <div

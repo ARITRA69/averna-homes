@@ -46,7 +46,6 @@ const Parallax: React.FC<ParallaxProps> = ({
     return () => window.removeEventListener("resize", onResize);
   }, [ref]);
 
-  // Don't parallax if the user has "reduced motion" enabled
   if (prefersReducedMotion) {
     return <>{children}</>;
   }
